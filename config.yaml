@@ -1,6 +1,6 @@
 data_dir: "data path"
 resume_dir: "path to model"
-mode: "test"
+mode: "test" or "train"
 epochs: 1
 image_size: 224
 batch_size: 32  
